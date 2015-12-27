@@ -1,5 +1,4 @@
 int main
  {
-  printf("分支")
-  printf("V0.1分支")
+  printf("master")
  }
