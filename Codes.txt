@@ -1,5 +1,5 @@
 int main
  {
-  printf("master") master
+  printf("master111") master
   master
  }
