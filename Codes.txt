@@ -1,6 +1,9 @@
 int main
  {
-  printf("master")
+  printf("master123456")
   printf("V0.1")
-  1
- }
+  printf£¨"V0.1"£©
+  printf£¨"V0.1"£©
+  printf£¨"V0.1"£©
+  printf£¨"V0.1"£© 
+}
