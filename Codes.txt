@@ -1,7 +1,7 @@
 int main
  {
   printf("master2134132422213451125111")
-  printf("123")
+  printf("1232134324")
   printf("V0.1")
   printf£¨"V0.1"£©
   printf£¨"V0.1"£©
