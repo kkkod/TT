@@ -3,5 +3,5 @@ int main
   printf("master")
   printf("V0.2")
   printf("11111")
-  asdfaadfafadf
+
  }
