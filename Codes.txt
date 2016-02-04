@@ -8,7 +8,11 @@ V0.1
 
   printf("dev2016-dev")
 
-  printf("dev2016-dev--dd")
+  printf("dev2016-dev--dd-rel-v1.0")
+
+
+
+
 
 printf("dev2016-dev--dd-add")
  }
