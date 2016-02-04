@@ -7,6 +7,4 @@ int main
 V0.1
 
   printf("dev2016-dev")
-
-  printf("dev2016-dev--dd")
  }
